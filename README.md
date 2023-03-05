@@ -1,5 +1,7 @@
 # Facial Keypoints Detection
 
+This project was made by Yauheni Zviazdou as a semester work of subject Julia for Optimization and Learning.
+
 [Kaggle Facial Keypoints Detection](https://www.kaggle.com/competitions/facial-keypoints-detection)
 
 # Installation
