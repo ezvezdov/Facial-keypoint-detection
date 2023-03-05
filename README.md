@@ -6,7 +6,7 @@ This project was made by Yauheni Zviazdou as a semester work of subject Julia fo
 
 # Installation
 ```julia
-(@v1.8) pkg> add https://github.com/B0B36JUL-FinalProjects-2022/Projekt_zviazyau
+(@v1.8) pkg> add https://github.com/ezvezdov/Facial-keypoint-detection
 ```
 # Neural network specification
 ## SimpleNet
